@@ -1,0 +1,17 @@
+APP NAME: TOONMAKER STUDIO
+PACKAGE ID: com.toonmakerstudio.app
+SHORT DESCRIPTION (max 80): Make cartoon scenes with characters, voices, sounds and video.
+FULL DESCRIPTION:
+TOONMAKER STUDIO lets you create your own cartoon scenes on your phone.
+- 6 characters: boy, girl, two friends, a cat and a dog. Drag them anywhere.
+- Actions: stand, walk, run, sit, sleep, chase.
+- Expressions: happy, sad, cry, angry, sulk. Change hair style and colour.
+- Backgrounds: paper, park, room, night, or your own photo.
+- Voice: type text and the characters speak. Write dialogues for two or more characters.
+- Sound effects: meow, woof, bed creak, cloth rustle, footsteps.
+- Record your scene as a video and share it.
+- Your project is saved automatically.
+CATEGORY: Art & Design (or Entertainment)
+TARGET AUDIENCE: General audience / all ages (NOT designed only for children)
+CONTENT RATING: answer the questionnaire honestly: no violence, no user-generated sharing inside the app, no ads (for now).
+DATA SAFETY (current version): no data collected or shared; project is stored only on the device; photos you pick stay on the device; no account; no ads; no purchases.
